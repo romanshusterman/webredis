@@ -3,3 +3,4 @@ flask
 Flask==2.2.2
 celery
 redis==4.5.1
+rq
